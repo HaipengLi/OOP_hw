@@ -1,4 +1,4 @@
-## these is my OOP (Object-Oriented Programming) homework
+## there are my OOP (Object-Oriented Programming) homework
 **menu**
 - Student_I
 - Student_II
